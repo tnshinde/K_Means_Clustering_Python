@@ -37,28 +37,8 @@ Cluster 1: Represents another group with different spending behaviors.
 Detailed summary of the number of customers, average annual income, and spending score for each cluster.
 Explanation of the 3 Clusters
 Cluster 0, 1, 2: Provides a more detailed segmentation with a third cluster, offering deeper insights into customer behavior.
-Summary of the number of customers, average income, and spending score for each cluster.
-
-🚀 **How to Run**
-Prerequisites
-Make sure you have the following Python libraries installed:
-
-bash
-Copy code
-pip install pandas matplotlib scikit-learn openpyxl
-Steps to Run
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/customer-segmentation.git
-Place your dataset (FYE_data.xlsx) in the project directory.
-Run the Python script:
-bash
-Copy code
-python customer_segmentation.py
-View the output:
-The script will display scatter plots for the clusters and print explanations for each segment.
+Summary of the number of customers, average income, and spending score for each cluster
 
 🤝 **Contributing**
-Contributions are welcome! If you have ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
+Contributions are welcome. If you have ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
